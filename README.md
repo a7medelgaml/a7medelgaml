@@ -21,7 +21,7 @@ I care about performance, accessibility, and user-friendly design.
 | Project | Tech | Description |
 |--------|------|-------------|
 | **Brainwaves STEM Academy** | React, Bootstrap | SPA with landing pages for each course |
-| **My Portfolio Website** | HTML, CSS, JS | Personal portfolio with clean responsive UI |
+| **My Portfolio Website** | React, Bootstrap | Personal portfolio with clean responsive UI |
 | **Trendora E-commerce Website** | Next.js, Stripe API | Product listing and shopping cart |
 | **Fashion Wear E-commerce Website** | React.js, Stripe API | Product listing and shopping cart |
 
