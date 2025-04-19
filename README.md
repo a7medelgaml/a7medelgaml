@@ -41,5 +41,9 @@ I care about performance, accessibility, and user-friendly design.
 - 🌐 Portfolio: [https://ahmed-elgaml-portfolio.vercel.app/](https://ahmed-elgaml-portfolio.vercel.app/)
 
 ---
+<p align="center">
+  <a href="https://www.buymeacoffee.com/AhmedElgaml" target="_blank">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=AhmedElgaml&button_colour=BD5FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" />
+  </a>
+</p>
 
-[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=AhmedElgaml&button_colour=BD5FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/AhmedElgaml)
