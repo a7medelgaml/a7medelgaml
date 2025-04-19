@@ -40,3 +40,6 @@ I care about performance, accessibility, and user-friendly design.
 - 💼 LinkedIn: [https://www.linkedin.com/in/ahmed-e-604485110/](https://www.linkedin.com/in/ahmed-e-604485110/)  
 - 🌐 Portfolio: [https://ahmed-elgaml-portfolio.vercel.app/](https://ahmed-elgaml-portfolio.vercel.app/)
 
+---
+
+[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=AhmedElgaml&button_colour=BD5FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/AhmedElgaml)
