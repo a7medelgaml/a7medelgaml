@@ -27,11 +27,7 @@ I care about performance, accessibility, and user-friendly design.
 
 ---
 
-## 📈 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=a7medelgaml&show_icons=true&theme=tokyonight)
-
----
 
 ## 📫 Contact Me  
 
