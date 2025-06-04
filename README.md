@@ -10,6 +10,7 @@ I care about performance, accessibility, and user-friendly design.
 - HTML5 / CSS3 
 - JavaScript (ES6+) / TypeScript  
 - React / Next.js  
+- Prisma / Postgresql  
 - Bootstrap  
 - Git / GitHub / VS Code  
 - API Integration / Axios  
@@ -19,8 +20,8 @@ I care about performance, accessibility, and user-friendly design.
 ## 🚀 Projects  
 
 | Project | Tech | Description |
-|--------|------|-------------|
-| **Brainwaves STEM Academy** | React, Bootstrap | SPA with landing pages for each course |
+|--------|------|--------------|
+| **Brainwaves STEM Academy** | Next.js, Bootstrap | SPA with landing pages for each course |
 | **My Portfolio Website** | React, Bootstrap | Personal portfolio with clean responsive UI |
 | **Trendora E-commerce Website** | Next.js, Stripe API | Product listing and shopping cart |
 | **Fashion Wear E-commerce Website** | React.js, Stripe API | Product listing and shopping cart |
